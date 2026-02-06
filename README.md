@@ -1,6 +1,4 @@
 ## Supply Chain Data Analysis
-
-### Overview
 End-to-end supply chain analytics project focused on analyzing sales, inventory, regional performance, and growth trends to support data-driven operational decisions.
 
 ### Tools
