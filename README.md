@@ -1,35 +1,19 @@
-# Supply Chain Data Analysis
+## Supply Chain Data Analysis
 
-## Overview
-An end-to-end supply chain analytics project focused on analyzing sales, inventory, regional performance, and growth trends using SQL and BI tools.
+### Overview
+End-to-end supply chain analytics project focused on analyzing sales, inventory, regional performance, and growth trends to support data-driven operational decisions.
 
-## Tools & Technologies
-- SQL (Sales, inventory & KPI analysis)
-- Power BI (Interactive dashboards)
-- Tableau (Sales & regional analysis dashboards)
-- Microsoft Excel (KPIs & summaries)
+### Tools
+SQL · Power BI · Tableau · Excel
 
-## Dataset
-The dataset includes sales transactions, inventory data, product details, store information, and customer geography.
-(Uses sample or anonymized data for demonstration.)
+### Key Work Performed
+- Cleaned and analyzed sales, inventory, and customer data from multiple relational tables  
+- Wrote SQL queries using joins, aggregations, and date logic to generate KPIs  
+- Built interactive dashboards to track product, store, state, and region-wise performance  
+- Analyzed trends across time (YTD, QTD, MTD, YoY) to support performance monitoring  
 
-## Objectives
-- Analyze sales and inventory performance
-- Identify top products, stores, states, and regions
-- Track YTD, QTD, MTD and YoY sales trends
-- Support business decision-making through dashboards
-
-## Key Work Performed
-- SQL joins, aggregations, and filtering
-- KPI calculations (sales, inventory, growth)
-- Dashboard design and visualization
-- Insight-driven reporting
-
-## Key Insights
-- California and Florida contribute the highest share of total sales.
-- Arts & Entertainment and Electronics categories drive the majority of revenue.
-- Sales show consistent YoY growth until a decline in 2023.
-- West and South regions outperform other regions in total sales.
-
-## Author
-Raksha S
+### Key Insights
+- Identified top-performing products, stores, and regions by sales  
+- Analyzed inventory distribution and sales contribution across regions  
+- Tracked sales growth trends across years and months  
+- Compared customer purchasing patterns by region and payment method
